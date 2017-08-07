@@ -75,7 +75,7 @@ a:hover {
 .bl-main > section:nth-child(2) {
 	top: 0;
 	left: 50%;
-	background: url('https://www.youtube.com/embed/uUy19aFhYgA?controls=0&showinfo=0&rel=0&autoplay=1&loop=1" frameborder="0" allowfullscreen') no-repeat; 
+	background: url('https://www.youtube.com/embed/uUy19aFhYgA?controls=0&showinfo=0&rel=0&autoplay=1&loop=1mute=1" frameborder="0" allowfullscreen') no-repeat; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
