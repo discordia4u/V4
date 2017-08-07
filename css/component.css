@@ -75,7 +75,7 @@ a:hover {
 .bl-main > section:nth-child(2) {
 	top: 0;
 	left: 50%;
-	background: url('http://beta.fdg.one/wp-content/uploads/2017/06/1pt2ei.gif') no-repeat; 
+	background: url('') no-repeat; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
@@ -703,7 +703,7 @@ section.bl-expand .bl-icon-close {
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
 	  background-size: cover;
-   background-position: bottom center;
+   background-position: top center;
 }
   
   }
