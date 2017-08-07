@@ -347,7 +347,7 @@ div.bl-panel-items > div > div {
 }
 
 .headlines {
-  display: inline;
+  display: block;
   background-color: white;
   position: contain;
   border: 1px solid #222222;
