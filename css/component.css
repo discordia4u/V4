@@ -346,6 +346,12 @@ div.bl-panel-items > div > div {
 .vid-info .acronym { display: none; }
 }
 
+.headlines {
+ padding: 5px 10px 5px 10px;
+  border: 1px solid #00222222;
+
+}
+
 
 
 
