@@ -135,7 +135,6 @@ a:hover {
 }
 
 .bl-box h2 {
-  	display: inline;
 	text-align: center;
 	margin: 0;
 	padding: 20px;
@@ -348,6 +347,7 @@ div.bl-panel-items > div > div {
 }
 
 .headlines {
+  	padding: 1px 1px 1px 1px;
  	background-color: white;
   	display: inline;
 	border: 1px solid #222222;
