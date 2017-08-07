@@ -347,10 +347,10 @@ div.bl-panel-items > div > div {
 }
 
 .headlines {
-  display: inline;
+  
   background-color: white;
-
-  border: 1px solid #222222;
+  display: inline;
+border: 1px solid #222222;
 
 }
 
