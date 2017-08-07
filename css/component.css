@@ -694,6 +694,18 @@ section.bl-expand .bl-icon-close {
 
 	.bl-content > ul li {
 		width: 40%;
-	}
+	
+  .bl-main > section:nth-child(3) {
+	top: 50%;
+	left: 0;
+	background: url('http://beta.fdg.one/wp-content/uploads/2017/07/36039608982_a27059a468_o.jpg') no-repeat; 
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+   background-position: bottom center;
+}
+  
+  }
 	
 }
