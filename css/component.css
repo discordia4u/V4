@@ -302,11 +302,11 @@ div.bl-panel-items > div > div {
   line-height:px;
   background: #edf2f4 !important;   
   border:2px solid #222222;
-  -webkit-box-shadow:rgba(0, 0, 0, 0.1) 0 0 0 inset;
+  -webkit-box-shadow:rgba(0, 0, 0, 0) 0 0 0 inset;
   text-shadow: none !important;
   text-align:center !important;
-  padding: px 10px 10px 10px; !important;
-  margin:  px 10px px 10px;
+  padding: 10px 10px 10px 10px; !important;
+  margin: 10px 10px px 10px;
 }
 
 * { box-sizing: border-box; }
