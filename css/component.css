@@ -78,7 +78,7 @@ a:hover {
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
 	  background-size: cover;
-   background-position: bottom center;
+   background-position: top center;
 }
 
 .bl-main > section:nth-child(2) {
