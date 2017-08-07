@@ -312,7 +312,7 @@ div.bl-panel-items > div > div {
 * { box-sizing: border-box; }
 .video-background {
   background: #000;
-  position: fixed;
+  position: top right;
   top: 0; right: 0; bottom: 0; left: 0;
   z-index: -99;
 }
