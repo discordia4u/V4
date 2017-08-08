@@ -33,7 +33,7 @@ body {
 }
 
 a {
-	color: #f0f0f0;
+	color: #ae1a2c;
 	text-decoration: none;
 	font-weight: 700;
 	letter-spacing: 2px;
@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-	color: #fff;
+	color: #8d99ae;
 }
 
 .container { height: 100%; }
