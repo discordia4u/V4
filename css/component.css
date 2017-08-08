@@ -297,7 +297,7 @@ div.bl-panel-items > div > div {
   padding-right:10px;
 }
 
-.span4 {
+.span4 my_work {
   font-size:14px !important;
   line-height:px;
   background: #edf2f4 !important;   
@@ -349,7 +349,7 @@ div.bl-panel-items > div > div {
 .headlines {
   	color: white;  
   	background-color: #cc222222;
-  	display: inline;
+  	display: ;
 	border: 2px 0px solid #222222;
 }
 
