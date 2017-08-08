@@ -48,6 +48,11 @@ a:hover {
 
 .container { height: 100%; }
 
+.btn {
+	text-align: center;
+}
+
+
 .bl-main {
 	position: absolute;
 	width: 100%;
