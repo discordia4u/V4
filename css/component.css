@@ -522,19 +522,21 @@ div.bl-panel-items > div.bl-hide-current-work {
 /* Section background colors */
 
 .bl-main > section:first-child.bl-expand {
-	
+	background: #00222222;
 }
 .bl-main > section:nth-child(2).bl-expand {
 	background: #edf2f4;
-   	background: url('http://beta.fdg.one/wp-content/uploads/2017/07/36039608982_a27059a468_o.jpg') no-repeat; 
+   	
+}
+.bl-main > section:nth-child(3).bl-expand {
+	background: #ee6557;
+  	background: url('http://beta.fdg.one/wp-content/uploads/2017/07/36039608982_a27059a468_o.jpg') no-repeat; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
 	  background-size: cover;
    background-position: bottom center;
-}
-.bl-main > section:nth-child(3).bl-expand {
-	background: #ee6557;
+  
 }
 .bl-main > section:nth-child(4).bl-expand {
   	background: url('http://beta.fdg.one/wp-content/uploads/2017/07/peace_canyon-e1501788859731.png') no-repeat; 
