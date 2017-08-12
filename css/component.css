@@ -73,6 +73,7 @@ a:hover {
 	top: 0;
 	left: 0;
 	background: url('http://beta.fdg.one/wp-content/uploads/2017/08/14712981_907451236065336_3804514726129613884_o.jpg') no-repeat; 
+  background-image: linear-gradient(top, #4F364C, #FFFFFF);
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
