@@ -73,7 +73,7 @@ a:hover {
 	top: 0;
 	left: 0;
 	background: url('http://beta.fdg.one/wp-content/uploads/2017/08/14712981_907451236065336_3804514726129613884_o.jpg') no-repeat; 
-  background-image: radial-gradient(center, #4F364C, #FFFFFF);
+  background: radial-gradient(center, #4F364C, #FFFFFF);
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
@@ -84,7 +84,7 @@ a:hover {
 .bl-main > section:nth-child(2) {
 	top: 0;
 	left: 50%;
-	background: url('') no-repeat; 
+	background: url('http://beta.fdg.one/wp-content/uploads/2017/06/1pt2ei.gif') no-repeat; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
