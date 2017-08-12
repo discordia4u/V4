@@ -30,6 +30,7 @@ body {
     background: #333;
     font-size: 0.9em;
     font-weight: 300;
+    background: radial-gradient(circle, #00ffffff 10%, #80222222 90%)
 }
 
 a {
@@ -72,7 +73,6 @@ a:hover {
 .bl-main > section:first-child {
 	top: 0;
 	left: 0;
-  background: radial-gradient(circle, #fff 10%, #80222222 90%);
 	background: url('http://beta.fdg.one/wp-content/uploads/2017/08/14712981_907451236065336_3804514726129613884_o.jpg') no-repeat; 
    -webkit-background-size: cover;
 	  -moz-background-size: cover;
