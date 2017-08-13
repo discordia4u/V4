@@ -149,6 +149,8 @@ article {
 }
 
 .bl-box h2 {
+  	color: white;  
+  	background-color: #CC222222;
 	text-align: center;
 	margin: 0;
 	padding: 20px;
@@ -157,6 +159,12 @@ article {
 	letter-spacing: 2px;
 	font-weight: 700;
 	text-transform: uppercase;
+}
+
+.headlines {
+  	color: white;  
+  	background-color: #CC222222;
+  	display: inline ;
 }
 
 .bl-icon {
@@ -324,11 +332,7 @@ div.bl-panel-items > div > div {
 }
 
 
-.headlines {
-  	color: white;  
-  	background-color: #CC222222;
-  	display: inline ;
-}
+
 
 
 
