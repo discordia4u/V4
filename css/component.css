@@ -79,8 +79,10 @@ article {
 	top: 0;
 	left: 0;
 	background: url('http://beta.fdg.one/wp-content/uploads/2017/08/14712981_907451236065336_3804514726129613884_o.jpg') no-repeat; 
-   -webkit-background-size: cover;
-	  -moz-background-size: cover;
+    -webkit-filter: grayscale(90%);
+    filter: grayscale(90%); 
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
 	  -o-background-size: cover;
 	  background-size: cover;
    background-position: top center;
@@ -161,11 +163,7 @@ article {
 	text-transform: uppercase;
 }
 
-.headlines {
-  	color: white;  
-  	background-color: #CC222222;
-  	display: inline ;
-}
+
 
 .bl-icon {
 	font-family: 'icomoon';
