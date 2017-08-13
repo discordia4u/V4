@@ -79,9 +79,7 @@ article {
 	top: 0;
 	left: 0;
 	background: url('http://beta.fdg.one/wp-content/uploads/2017/08/14712981_907451236065336_3804514726129613884_o.jpg') no-repeat; 
-    -webkit-filter: grayscale(90%);
-    filter: grayscale(90%); 
-  -webkit-background-size: cover;
+    -webkit-background-size: cover;
    -moz-background-size: cover;
 	  -o-background-size: cover;
 	  background-size: cover;
@@ -92,9 +90,7 @@ article {
 	top: 0;
 	left: 50%;
 	background: url('http://beta.fdg.one/wp-content/uploads/2017/06/1pt2ei.gif') no-repeat;
-    -webkit-filter: grayscale(90%);
-    filter: grayscale(90%); 
-	  -webkit-background-size: cover;
+ 	 -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
 	  background-size: cover;
@@ -104,9 +100,7 @@ article {
 	top: 50%;
 	left: 0;
 	background: url('http://beta.fdg.one/wp-content/uploads/2017/07/36039608982_a27059a468_o.jpg') no-repeat; 
-    -webkit-filter: grayscale(90%);
-    filter: grayscale(90%); 
-	  -webkit-background-size: cover;
+ 	 -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
 	  background-size: cover;
@@ -117,9 +111,7 @@ article {
 	top: 50%;
 	left: 50%;
 	background: url('http://beta.fdg.one/wp-content/uploads/2017/07/peace_canyon-e1501788859731.png') no-repeat; 
-    -webkit-filter: grayscale(90%);
-    filter: grayscale(90%); 
-	  -webkit-background-size: cover;
+    -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
 	  background-size: cover;
