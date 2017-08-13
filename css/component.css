@@ -48,14 +48,16 @@ a:hover {
 }
 
 .btn {
-  	color: white;
-  	background-color: black;
+  	color: #ae1a2c;
+  	background-color: ;
 	padding: 10px 5px;
+  margin: 10px 10px;
+  text-align: center;
 }
 
 article {
   padding: 10px 5px;
- background-color white: 
+ background-color: white; 
 }
 
 .container {
