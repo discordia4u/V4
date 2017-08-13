@@ -47,12 +47,20 @@ a:hover {
 	color: #8d99ae;
 }
 
+.button {
+  	color: white;
+  	background-color: black;
+	padding: 10px 5px;
+}
+
 .article {
   padding: 10px 5px;
  background-color white: 
 }
 
-.container { height: 100%; }
+.container {
+  height: 100%;
+}
 
 .bl-main {
 	position: absolute;
