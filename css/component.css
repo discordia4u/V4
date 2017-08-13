@@ -304,7 +304,7 @@ div.bl-panel-items > div > div {
 }
 
 .span4 my_work {
-  font-size:14px !important;
+  font-size:12px !important;
   line-height:px;
   background: #edf2f4 !important;   
   border:2px solid #222222;
@@ -312,7 +312,7 @@ div.bl-panel-items > div > div {
   text-shadow: none !important;
   text-align:center !important;
   padding: 10px 10px 10px 10px; !important;
-  margin: 10px 10px px 10px;
+  margin: 10px 10px 10px 10px;
 }
 
 
