@@ -331,7 +331,7 @@ div.bl-panel-items > div > div {
   background: #edf2f4 !important; 
   -webkit-box-shadow:rgba(0, 0, 0, 0) 0 0 0 inset;
   text-shadow: none !important;
-  text-align:center !important;
+  text-align:left !important;
   padding: 10px 10px 10px 10px; !important;
   margin-top: 50px;
   margin-bottom: 50px;
