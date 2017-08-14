@@ -60,6 +60,11 @@ article {
  background-color: #80222222; 
 }
 
+.white-text {
+ color: white;
+ 
+}
+
 .container {
   height: 100%;
 }
