@@ -677,6 +677,10 @@ section.bl-expand .bl-icon-close {
 .social-network.zerply:hover,.active .social-network.zerply{ background-position: -1920px -40px}
 
 @media screen and (max-width: 46.5em) {
+  .video-scale {
+ 	height: 150px;
+    width: 300;
+  }
 	.bl-content,
 	.bl-box {
 		font-size: 75%;
@@ -689,7 +693,7 @@ section.bl-expand .bl-icon-close {
 	.bl-content > ul li {
 		width: 40%;
 	
-
+      
 }
   
   }
