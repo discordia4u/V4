@@ -166,7 +166,7 @@ article {
 
 .bl-box h2 {
   	color: white;  
-  	background-color: #CC222222;
+  	
 	text-align: center;
 	margin: 0;
 	padding: 20px;
@@ -175,6 +175,7 @@ article {
 	letter-spacing: 2px;
 	font-weight: 700;
 	text-transform: uppercase;
+    text-shadow: 1px 1px #222222;
 }
 
 
