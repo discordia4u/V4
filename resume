@@ -1,1 +1,158 @@
+		<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Lets Connect! | Christopher Torlone's Web Resume</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Social Media | Project Manager | SEO | Marketing | Wiz | Wizard" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/component.css" rel="stylesheet">
+
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/font-awesome.css">
+
+
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+	<script type="text/javascript" src="js/modernizr.custom.js"></script>
+    
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon-57-precomposed.png">
+
+
+  </head>
+
+  <body>
+
+
+    <div class="container">
+
+			<div id="bl-main" class="bl-main">
+    
+    
+    <section>
+			
+							<div class="span12">
+								<h2>About Me</h2>
+							<p>I am a freelance creative with over 15 years experience in a large, diverse range of professions. Some of of the many roles I've maintained over my rich history of odd and professional jobs are graphic designer, web designer focused on UX/UI, social media/SEO marketing and copywriter, project and account manager, hair stylist (licensed since 2008), A/V installation tech, events DJ, as well a 5 year run owning and operating a small successful catering and events business. With a BS in Recording Engineering/Live Sound from Full Sail '00, saying I'm a Jack-of-All Trades might be an understatement.</p>
+								<p>I offer a complete solution to any project where my diverse experience offers insight and wisdom when others are scrambling off to another department for advice. With wildly creative solutions and heavily focused on creating unique, memorable client/ customer experiences, I'm inspired by the simplest of understandings to make and keep connections; allowing a rich arena where development flourishes and the true potential in everything can shine.</p>
+								<p></p>
+								<p></p>
+								<p></p>
+								<p></p>
+								<div class="row-fluid">
+									<div class="span8">
+									<h2>My Skills</h2>
+									    <!-- Progress Bar --> 										
+                                      <div class="progress">
+									<div class="bar" style="width: 65%;">HTML/CSS/JS 65%</div>
+									</div>  
+									<div class="progress">
+									<div class="bar" style="width: 65%;">Bootstrap/Wordpress 65%</div>
+									</div>  
+									<div class="progress">
+									<div class="bar" style="width: 75%;">Social Media/SEO 75%</div>
+									</div> 
+                                   	<div class="progress">
+									<div class="bar" style="width: 70%;">Copy/Content Writer 70%</div>											</div>  
+									<div class="progress">
+									<div class="bar" style="width: 75%;">Web Design 75%</div>
+									</div>  
+									<div class="progress">
+									<div class="bar" style="width: 70%;">Videography 70%</div>
+									</div> 
+									<div class="progress">
+									<div class="bar" style="width: 99%;">Sound Design 99%</div>
+									</div>  
+									<div class="progress">
+									<div class="bar" style="width: 100%;">Customer Satisfaction  100%</div>
+										</div> 
+       
+										<!-- Progress Bar End --> 
+									</div><!-- /span6 -->
+									<div class="span4"></div>
+									<div class="span12">
+										<br>
+										<br>
+									</div>
+									<div class="span12">
+										<div class="row about-us">
+											<div class="span4">
+											<h3><i class="fa fa-magic" style="font-size:35px;"></i>My Inside World</h3>
+                                                                                      <center><iframe width="300" height="150" src="https://www.youtube.com/embed/-c5WVU5XmRw" frameborder="0" allowfullscreen></iframe></center>
+											<p>It was June 1982, I was 2 and a half. Little did I know that when Elliot stumbled onto ET in the field next to his house, a scene that made me shreak in terror; doing the same to the theatre full of movie goers, would be my first memory I could recall as a child. This deep impression still fuels my life's neverending search for the answer to the question "How do you do that?"</p>
+      
+											</div>
+											<div class="span4">
+											<h3><i class="fa fa-heart" style="font-size:35px;"></i>What I Love</h3><p>Just my Top 3 videos that keep me inspired or laughing.</p>
+                                           
+                                         <center><iframe width="300" height="150" src="https://www.youtube.com/embed/z50rlvX_46c" frameborder="0" allowfullscreen></iframe></center>
+                                            
+                                          <center><iframe width="300" height="150" src="https://www.youtube.com/embed/q-5G1Y4LZIo" frameborder="0" allowfullscreen></iframe></center>
+                                          
+                                          
+                                           <center><iframe width="300" height="150" src="https://www.youtube.com/embed/U9t-slLl30E" frameborder="0" allowfullscreen></iframe></center>
+                                              
+                                              </div>
+										
+											<div class="span4">
+											<h3><i class="fa fa-space-shuttle" style="font-size:35px;"></i>Ready To Go</h3><p>In my free time you can either catch me at the dog park with my dogs, glued to my computer, knee deep in a code forum or homesteading blog or at my favorite coffee shop in Fort Lauderdale, <a href="http://www.thealchemist.cafe">The Alchemist</a> but I'm usually just a few clicks away.</p>
+ 
+
+                                              
+                    <div> <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1835260.019459095!2d-81.58033590229522!3d26.050165214713203!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6e64bb6c0cfc507f!2sFDG.ONE!5e0!3m2!1sen!2sus!4v1502229048602" width="300" height="275" frameborder="0" style="border:0" allowfullscreen></iframe></center></div>
+                                     
+                                   
+                                          </div>
+                                          
+										</div><!-- /row-about-us -->  
+									
+                               			</div><!-- /span12 -->
+								</div><!-- /row -->
+							</div><!-- /span12 -->
+<div class="closer">     				
+    <a href="tel:754-666-2918"  class="btn btn-default btn-lg">Call Me</a>
+  	<a href="sms:754-666-2918"  class="btn btn-default btn-lg">Text Me</a>
+  	<a href="mailto:christopher.torlone@gmail.com?Subject=Hello"  class="btn btn-default btn-lg">Email Me</a>
+    <br><a href="http://torl.one">Christopher Torl.one | 2017</a>
+</div>
+						</div><!-- /row-fluid -->
+   
+ 	
+                      
+                      
+						
+					</div><!-- /bl-content -->
+					<span class="bl-icon bl-icon-close"></span>
+				</section>
+        			</div><!-- /bl-main -->
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+		<script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
+
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/boxlayout.js"></script>
+		<script>
+			$(function() {
+				Boxlayout.init();
+			});
+		</script>
+  </body>
+</html>
 
